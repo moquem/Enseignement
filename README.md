@@ -3,7 +3,7 @@ Voici quelques ressources que j'ai écrites pour mes activités au sein de l'ass
 ## Animath
 
 Le dossier Animath contient des TD que j'ai donné, en binôme ou seule, pendant les stages de la POFM (préparation olympique française de mathématiques), à des classes de niveau collège et lycée. 
-Les exercices sont du très bon livre _Solutions d'expert_ de Arthur Engel ou des anciens polycopiés d'exercice de Animath.
+Les exercices sont tirés du très bon livre _Solutions d'expert_ de Arthur Engel ou des anciens polycopiés d'exercice de Animath.
 
 ## Institut Fibonacci
 
