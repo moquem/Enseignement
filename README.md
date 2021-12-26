@@ -1,4 +1,4 @@
-Voici quelques ressources que j'ai écrite pour mes activités au sein de l'association Animath et de l'Institut Fibonacci.
+Voici quelques ressources que j'ai écrites pour mes activités au sein de l'association Animath et de l'Institut Fibonacci.
 
 ## Animath
 
